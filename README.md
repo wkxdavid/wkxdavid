@@ -16,3 +16,6 @@ School Leadership Involvements:
 Previous Non Leadership Involvments:
 - Applied Analytics Club
 - Husky Coding Project
+- UW Esports
+- Vietnamese Student Association
+- Chinese Student Association
