@@ -7,5 +7,12 @@ Currently looking to for a internship to gain more experience in the SWE field.
 - 😄 Pronouns: he/him
 
 
-School Involvements: Valorant @ UW, Software Engineer Career Club, WordPlayPen, INFO 201 Lead Undergraduate TA
-![HUBStaffHeadshots-253](https://github.com/wkxdavid/wkxdavid/assets/98622436/104988bd-4b50-4a45-958c-b2e263f85da4)
+School Involvements: 
+President of Valorant @ UW
+Mentorship Manager for Software Engineer Career Club - https://swecc.org/
+Developer for WordPlayPen - https://wordplay.dev/
+INFO 201 Lead Undergraduate Teaching Assistant - https://myplan.uw.edu/course/#/courses/INFO201
+
+Previous Non-leadership Involvement with: 
+Husky Coding Project
+Applied Analytics Club
