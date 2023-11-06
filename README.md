@@ -7,8 +7,6 @@ Currently looking to for a internship to gain more experience in the SWE field.
 - Linkedin: https://www.linkedin.com/in/phamdavid722/
 - 😄 Pronouns: he/him
 
-Languages: Java, Python, R, Javascript, HTML/CSS, Typescript, SQL
-
 School Leadership Involvements: 
 - President of Valorant @ UW
 - Mentorship Manager for Software Engineer Career Club - https://swecc.org/
@@ -19,3 +17,8 @@ Previous Involvments:
 - Applied Analytics Club
 - Husky Coding Project
 - UW Esports
+
+Skills:
+- Programming Languages: Java, Python, R, C#, Javascript, HTML/CSS, Typescript, SQL, C/C++
+- Technologies: React.js, Bootstrap,  ASP.NET, Scikit-learn, Panda, Plotly, SQLite, D3.js,  
+- Tools: VS Code, Figma, Git, Bash Github, Firebase, AWS, Azure, Tableau, Rest API, Jupyter Notebook
