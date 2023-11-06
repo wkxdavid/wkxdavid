@@ -4,7 +4,7 @@ Currently looking to for a internship to gain more experience in the SWE field.
 
 - 🔭 I’m currently working on WordPlayPen, an universial typography language usable for people around the world. 
 - 📫 How to reach me: phamdavid722@gmail.com
-- Linkedin: https://www.linkedin.com/in/phamdavid722/
+- 😎 Follow me on Linkedin: https://www.linkedin.com/in/phamdavid722/
 - 😄 Pronouns: he/him
 
 School Leadership Involvements: 
