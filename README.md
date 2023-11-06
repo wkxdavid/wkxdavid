@@ -13,9 +13,7 @@ School Leadership Involvements:
 - Student Developer for WordPlayPen - https://wordplay.dev/
 - INFO 201 Lead Undergraduate TA - https://myplan.uw.edu/course/#/courses/INFO201
 
-Previous Non Leadership Involvments:
+Previous Involvments:
 - Applied Analytics Club
 - Husky Coding Project
 - UW Esports
-- Vietnamese Student Association
-- Chinese Student Association
