@@ -2,7 +2,7 @@
 # An Junior Informatics Major @ University of Washington
 Currently looking to for a internship to gain more experience in the SWE field.
 
-- 🔭 I’m currently working on WordPlayPen, an universial typography language usable for people around the world. 
+- 🔭 I’m currently taking databases and project management while working on WordPlayPen, an universial typography language usable for people around the world. 
 - 📫 How to reach me: phamdavid722@gmail.com
 - 😎 Follow me on Linkedin: https://www.linkedin.com/in/phamdavid722/
 - 😄 Pronouns: he/him
@@ -10,7 +10,7 @@ Currently looking to for a internship to gain more experience in the SWE field.
 School Leadership Involvements: 
 - President of Valorant @ UW
 - Mentorship Manager for Software Engineer Career Club - https://swecc.org/
-- Student Developer for WordPlayPen - https://wordplay.dev/
+- Developer for WordPlayPen - https://wordplay.dev/
 - INFO 201 Lead Undergraduate TA - https://myplan.uw.edu/course/#/courses/INFO201
 
 Previous Involvments:
