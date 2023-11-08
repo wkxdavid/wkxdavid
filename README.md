@@ -19,6 +19,6 @@ Previous Involvments:
 - UW Esports
 
 Skills:
-- Programming Languages: Java, Python, R, C#, Javascript, HTML/CSS, Typescript, SQL, C/C++
-- Technologies: React.js, Bootstrap,  ASP.NET, Scikit-learn, Panda, Plotly, SQLite, D3.js,  
-- Tools: VS Code, Figma, Git, Bash Github, Firebase, AWS, Azure, Tableau, Rest API, Jupyter Notebook
+- Programming Languages: Java, Python, R, Javascript, HTML/CSS, Typescript, SQL, C/C++, C#
+- Technologies: React.js, ASP.NET, Scikit-learn, Panda, Plotly, SQLite, D3.js,  Angular, Node.js, BootStrap, Sveltekit
+- Tools: Figma, Git, Bash, Github, Firebase, AWS, Azure, Tableau, Rest API, Jupyter Notebook,  Android Studio, Docker
