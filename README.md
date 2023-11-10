@@ -11,7 +11,7 @@ School Leadership Involvements:
 - President of Valorant @ UW
 - Mentorship Manager for Software Engineer Career Club - https://swecc.org/
 - Developer for WordPlayPen - https://wordplay.dev/
-- INFO 201 Lead Undergraduate TA - https://myplan.uw.edu/course/#/courses/INFO201
+- INFO 201 Lead Undergraduate Teaching Assistant - https://myplan.uw.edu/course/#/courses/INFO201
 
 Previous Involvments:
 - Applied Analytics Club
