@@ -19,7 +19,7 @@ Previous Involvments:
 - UW Esports
 
 # Strongest Skills: 
-KeyLanguages: 
+Languages: 
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,sql)](https://skillicons.dev)
 
