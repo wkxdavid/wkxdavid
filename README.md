@@ -19,19 +19,19 @@ Previous Involvments:
 - UW Esports
 
 # Strongest Skills: 
-Languages: 
+KeyLanguages: 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,sql)](https://skillicons.dev)
 
 Libraries and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=react,figma,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,figma,azure,git,bash,vscode)](https://skillicons.dev)
 
 Cloud:
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,aws)](https://skillicons.dev)
 
 # Other Skills:
-- Programming Languages: Java, R, Typescript, SQL, C/C++, C#
+- Programming Languages: Java, R, Typescript, C/C++, C#
 - Technologies: Scikit-learn, Panda, Plotly, SQLite, D3.js, Angular, Node.js, BootStrap, Sveltekit, Fastapi, ASP.NET, Playwright
 - Tools: Figma, Git, Bash, Github, Gitlab, githubactions, Rest API, Jupyter Notebook, Android Studio, Docker
