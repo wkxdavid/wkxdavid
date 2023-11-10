@@ -18,7 +18,20 @@ Previous Involvments:
 - Husky Coding Project
 - UW Esports
 
-Skills:
-- Programming Languages: Java, Python, R, Javascript, HTML/CSS, Typescript, SQL, C/C++, C#
-- Technologies: React.js, ASP.NET, Scikit-learn, Panda, Plotly, SQLite, D3.js,  Angular, Node.js, BootStrap, Sveltekit
-- Tools: Figma, Git, Bash, Github, Firebase, AWS, Azure, Tableau, Rest API, Jupyter Notebook,  Android Studio, Docker
+# Strongest Skills: 
+Languages: 
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+
+Libraries and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=react,figma,azure)](https://skillicons.dev)
+
+Cloud:
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,aws)](https://skillicons.dev)
+
+# Other Skills:
+- Programming Languages: Java, R, Typescript, SQL, C/C++, C#
+- Technologies: Scikit-learn, Panda, Plotly, SQLite, D3.js, Angular, Node.js, BootStrap, Sveltekit, Fastapi, ASP.NET, Playwright
+- Tools: Figma, Git, Bash, Github, Gitlab, githubactions, Rest API, Jupyter Notebook, Android Studio, Docker
