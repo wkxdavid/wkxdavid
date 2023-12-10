@@ -1,6 +1,6 @@
 ### Hello, I'm David Pham
 # An Junior Informatics Major @ University of Washington
-# Focusing in Software Engineering and Information Managmenet
+Fcusing in Software Engineering and Information Managmenet
 Currently looking to for a internship to gain more experience in the SWE field.
 
 - 🔭 I’m currently taking databases and project management courses while working on WordPlayPen, an universial typography language usable for people around the world. 
