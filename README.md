@@ -2,7 +2,7 @@
 # An Junior Informatics Major @ University of Washington
 Focusing in Software Engineering and Information Managmenet
 
-Currently looking to for a internship to gain more experience in the SWE field.
+Currently looking to gain more experience in the SWE field.
 
 - 🔭 I’m currently taking databases and project management courses while working on WordPlayPen, an universial typography language usable for people around the world. 
 - 📫 How to reach me: phamdavid722@gmail.com
