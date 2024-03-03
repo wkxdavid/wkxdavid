@@ -1,6 +1,6 @@
 ### Hello, I'm David Pham
 # An Junior Informatics Major @ University of Washington
-Focusing in Software Engineering and Information Managmenet
+Focusing in Software Engineering
 
 Currently looking to gain more experience in the SWE field.
 
