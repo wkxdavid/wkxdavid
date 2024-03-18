@@ -19,7 +19,7 @@ Previous Involvments:
 - Husky Coding Project
 - UW Esports
 
-# Strongest Skills: 
+# Favorite Skills: 
 Languages: 
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,mysql,java)](https://skillicons.dev)
