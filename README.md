@@ -23,17 +23,18 @@ Previous Involvments:
 # Strongest Skills: 
 Languages: 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,sql,java)](https://skillicons.dev)
 
 Libraries and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=react,figma,azure,git,bash,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,git,bash,)](https://skillicons.dev)
 
 Cloud:
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,firebase,gcp)](https://skillicons.dev)
 
 # Other Skills:
-- Programming Languages: Java, R, Typescript, C/C++, C#
-- Technologies: Scikit-learn, Panda, Plotly, SQLite, D3.js, Angular, Node.js, BootStrap, Sveltekit, Fastapi, ASP.NET, Playwright
-- Tools: Figma, Git, Bash, Github, Gitlab, githubactions, Rest API, Jupyter Notebook, Android Studio, Docker
+- Programming Languages: R, Typescript
+- Technologies: Scikit-learn, Panda, Plotly, SQLite, D3.js, Angular, Node.js, BootStrap, Sveltekit, Playwright, Tidyverse(dyplr, stringr)
+- Tools: Figma, npm, Github, Gitlab, githubactions, Rest API, Docker
+- IDE: VS Code, Android Studio, Jupyter Notebook, IntelliJ IDEA, JGrasp
