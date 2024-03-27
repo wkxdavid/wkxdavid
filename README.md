@@ -7,18 +7,6 @@ Focusing in Software Engineering and currently looking to gain more experience i
 - 😊 Connect with me on Linkedin: https://www.linkedin.com/in/phamdavid722/
 - 😄 Pronouns: he/him
 
-School Leadership Involvements: 
-- President of Valorant @ UW
-- Mentorship Manager for Software Engineer Career Club - https://swecc.org/
-- INFO 201 Lead Undergraduate Teaching Assistant - https://myplan.uw.edu/course/#/courses/INFO201
-
-Previous Involvments:
-- Developer for WordPlayPen - https://wordplay.dev/
-- DRG Student Researcher
-- Applied Analytics Club
-- Husky Coding Project
-- UW Esports
-
 # Favorite Skills: 
 Languages: 
 
