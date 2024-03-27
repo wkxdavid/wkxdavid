@@ -1,11 +1,10 @@
 ### Hello, I'm David Pham
 # An Junior Informatics Major @ University of Washington
-Focusing in Software Engineering and currently looking to gain more experience in the SWE field.
+Doing anything that looks fun. Currently focusing in Software Engineering and looking to gain more experience in the SWE field.
 
 - 🔭 I’m currently getting ready for a internship.  
 - 📫 How to reach me: phamdavid722@gmail.com
 - 😊 Connect with me on Linkedin: https://www.linkedin.com/in/phamdavid722/
-- 😄 Pronouns: he/him
 
 # Favorite Skills: 
 Languages: 
