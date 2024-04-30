@@ -21,6 +21,7 @@ Cloud:
 
 # Other Skills:
 - Programming Languages: R, Typescript
-- Technologies: Scikit-learn, Panda, Plotly, SQLite, D3.js, Angular, BootStrap, Sveltekit, Playwright, Tidyverse(dyplr, stringr), Tailwind
+- Technologies: Scikit-learn, Panda, Plotly, SQLite, D3.js, BootStrap, Sveltekit, Tidyverse(dyplr, stringr), Tailwind
+- Testing: Postman, Jest, TestThat, Playwright
 - Tools: Figma, npm, Github, Gitlab, githubactions, Rest API, Docker
 - IDE: VS Code, Android Studio, Jupyter Notebook, IntelliJ IDEA, JGrasp
