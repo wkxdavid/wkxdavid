@@ -1,5 +1,5 @@
-### Hello, I'm David Pham
-# An Junior Informatics Major @ University of Washington
+# Hello, I'm David Pham
+### An Informatics Major @ University of Washington
 Doing anything that looks fun. Currently focusing in Software Engineering and looking to gain more experience in the SWE field.
 
 - 🔭 I’m currently interning at HP.
@@ -22,6 +22,6 @@ Cloud:
 # Other Skills:
 - Programming Languages: R, Typescript
 - Technologies: Scikit-learn, Panda, Plotly, SQLite, D3.js, BootStrap, Sveltekit, Tidyverse(dyplr, stringr), Tailwind
-- Testing: Postman, Jest, TestThat, Playwright
+- Testing: Postman, Jest, TestThat, Playwright, Enzyme
 - Tools: Figma, npm, Github, Gitlab, githubactions, Rest API, Docker
 - IDE: VS Code, Android Studio, Jupyter Notebook, IntelliJ IDEA, JGrasp
