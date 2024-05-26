@@ -2,7 +2,7 @@
 # An Junior Informatics Major @ University of Washington
 Doing anything that looks fun. Currently focusing in Software Engineering and looking to gain more experience in the SWE field.
 
-- 🔭 I’m currently getting ready for a internship. Also a study abroad.
+- 🔭 I’m currently interning at HP.
 - 📫 How to reach me: phamdavid722@gmail.com
 - 😊 Connect with me on Linkedin: https://www.linkedin.com/in/phamdavid722/
 
