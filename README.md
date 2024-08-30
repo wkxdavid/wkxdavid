@@ -1,10 +1,9 @@
 # Hello, I'm David Pham
 ### An Informatics Major @ University of Washington
-Currently focusing in Software Engineering and looking to gain more experience in the SWE field.
 
 - 🔭 Recently an SWE Intern at HP.
 - 📫 How to reach me: phamdavid722@gmail.com
-- 😊 Connect with me on Linkedin: https://www.linkedin.com/in/phamdavid722/
+- 😊 Connect with me on [Linkedin](https://www.linkedin.com/in/phamdavid722/)
 
 # Favorite Skills: 
 Languages: 
