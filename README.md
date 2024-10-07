@@ -24,5 +24,5 @@ Cloud:
 - Programming Languages: R, Typescript
 - Technologies: Scikit-learn, Panda, Plotly, SQLite, D3.js, BootStrap, Sveltekit, Tidyverse(dyplr, stringr), Tailwind
 - Testing: Postman, Jest, TestThat, Playwright, Enzyme
-- Tools: Figma, npm, Github, Gitlab, githubactions, Rest API, Docker
-- IDE: VS Code, Android Studio, Jupyter Notebook, IntelliJ IDEA, JGrasp
+- Tools: Figma, npm, Maven, Github, Gitlab, githubactions, Rest API, Docker
+- IDE: VS Code, Android Studio, Jupyter Notebook, IntelliJ IDEA, JGrasp, Eclipse 
