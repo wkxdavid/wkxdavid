@@ -7,22 +7,27 @@
 
 - https://www.daviddpham.com/
 
-# Favorite Skills: 
+# Some of My Favorite Skills: 
 Languages: 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,html,css,mysql,java)](https://skillicons.dev)
 
 Libraries and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,bash,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,selenium,sklearn)](https://skillicons.dev)
+
+Testing:
+
+[![My Skills](https://skillicons.dev/icons?i=postman,jest)](https://skillicons.dev)
+
 
 Cloud:
 
-[![My Skills](https://skillicons.dev/icons?i=azure,firebase,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,firebase,gcp,vercel)](https://skillicons.dev)
 
-# Other Skills:
-- Programming Languages: R, Typescript
-- Technologies: Scikit-learn, Panda, Plotly, SQLite, D3.js, BootStrap, Sveltekit, Tidyverse(dyplr, stringr), Tailwind
-- Testing: Postman, Jest, TestThat, Playwright, Enzyme
-- Tools: Figma, npm, Maven, Github, Gitlab, githubactions, Rest API, Docker
+# Other Tools:
+- Programming Languages: R, 
+- Technologies: Panda, Plotly, D3.js, BootStrap, Sveltekit, Tidyverse(dyplr, stringr), Tailwind
+- Testing: TestThat, Playwright, Enzyme
+- Tools: Figma, yarn, npm, Maven, Github, Gitlab, githubactions, Docker
 - IDE: VS Code, Android Studio, Jupyter Notebook, IntelliJ IDEA, JGrasp, Eclipse 
