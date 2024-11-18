@@ -25,8 +25,8 @@ Cloud:
 
 [![My Skills](https://skillicons.dev/icons?i=azure,firebase,gcp,vercel)](https://skillicons.dev)
 
-# Other Tools:
-- Programming Languages: R, 
+# Other Tools (If not already listed above):
+- Programming Languages: R, Kotlin
 - Technologies: Panda, Plotly, D3.js, BootStrap, Sveltekit, Tidyverse(dyplr, stringr), Tailwind
 - Testing: TestThat, Playwright, Enzyme
 - Tools: Figma, yarn, npm, Maven, Github, Gitlab, githubactions, Docker
